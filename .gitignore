@@ -1,0 +1,5 @@
+airsense-project/client/node_modules/
+airsense-project/server/node_modules/
+airsense-project/client/dist/
+airsense-project/server/.env
+.DS_Store
